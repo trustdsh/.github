@@ -1,7 +1,7 @@
 # trustd.sh
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trustdsh/.github/refs/heads/main/profile/assets/logo.png" alt="trustd.sh Logo" width="300"/>
+  <img src="https://raw.githubusercontent.com/trustdsh/.github/refs/heads/main/profile/assets/logo.png" alt="trustd.sh Logo" width="200"/>
   
   ### No-Nonsense Universal Access Control Governance and Enforcement
 </div>
